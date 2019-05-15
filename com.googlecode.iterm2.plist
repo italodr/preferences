@@ -430,7 +430,7 @@
 			<key>AWDS Tab Option</key>
 			<string>Recycle</string>
 			<key>AWDS Window Directory</key>
-			<string>/Users/italodr/Sites/Projects</string>
+			<string>~/Sites/Projects</string>
 			<key>AWDS Window Option</key>
 			<string>Yes</string>
 			<key>Ambiguous Double Width</key>
@@ -1154,7 +1154,7 @@
 			<key>Window Type</key>
 			<integer>0</integer>
 			<key>Working Directory</key>
-			<string>/Users/italodr/Sites/Projects</string>
+			<string>~/Sites/Projects</string>
 		</dict>
 	</array>
 	<key>NoSyncHaveWarnedAboutPasteConfirmationChange</key>
