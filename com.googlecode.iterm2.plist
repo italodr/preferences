@@ -363,7 +363,7 @@
 	<key>HotkeyMigratedFromSingleToMulti</key>
 	<true/>
 	<key>LoadPrefsFromCustomFolder</key>
-	<true/>
+	<false/>
 	<key>NSNavLastRootDirectory</key>
 	<string>/Applications</string>
 	<key>NSNavPanelExpandedSizeForOpenMode</key>
